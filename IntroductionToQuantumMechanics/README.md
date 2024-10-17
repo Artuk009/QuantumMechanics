@@ -2,4 +2,7 @@
 
 ## Contents
 ##### Chapter #1:
-* Probability, Normalization
+* Probability, Normalization, Velocity and Momentum, The Uncertainty Principle
+
+##### Chapter #2:
+* Time-Independent Schrödinger Equation
